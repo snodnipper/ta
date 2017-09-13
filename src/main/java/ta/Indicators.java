@@ -17,7 +17,7 @@ package ta;
  * With head and shoulders, you get the neck line by connecting the left and right low points of the head to create a
  * trendline.
  *
- * Remember, this is heard mentality...someone large enough gets spooked then 10 respond...then 100 respond...then
+ * Remember, this is herd mentality...someone large enough gets spooked then 10 respond...then 100 respond...then
  * 1 million respond.  Typically, a "significant" catalyst starts the market off...then crowd psychology takes over.
  *
  * Fundamental events change price - and given those events TA is largely irrelevant.  TA works, however, ~60% of the
